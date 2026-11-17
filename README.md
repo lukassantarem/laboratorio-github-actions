@@ -1,2 +1,2 @@
 # laboratorio-github-actions
-Exercícios do Laboratório de actions de GC
+Exercícios do Laboratórios de actions de GC
